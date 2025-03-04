@@ -1,4 +1,4 @@
-# 🚀 Formulário de Cadastro de DEVs
+# Formulário de Cadastro de DEVs
 
 Este projeto é um formulário interativo desenvolvido para que **desenvolvedores** possam se cadastrar e fornecer informações sobre sua experiência, tecnologias que utilizam e preferências de atuação no desenvolvimento de software.
 
